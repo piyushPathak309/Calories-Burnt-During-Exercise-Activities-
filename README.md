@@ -26,7 +26,7 @@ Perform eda on dataset to derive some conclusion and insights which could furthe
 Impute Missing values,handle ouliers,removing duplicates values.
 
 ## Feature Selection :
-Perform feature selection using correlation and tried to know which feature is impacting much to my target variable.
+Perform feature selection using correlation matrix and tried to know which feature is impacting much to my target variable.
 
 ## Model selection :
 used various machine learning algorithms(Linear regression,Decision tree regressor,Random forest regressor) and tried to know which best suite on my dataset.
